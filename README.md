@@ -1,3 +1,5 @@
-## Resources
+# C
 
-[C Fundamentals - Frontend Masters Course](https://frontendmasters.com/courses/c-fundamentals/)
+## Introduction
+
+Project to learn C.
